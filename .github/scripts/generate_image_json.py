@@ -2,10 +2,10 @@ import os
 import json
 
 def generate_json():
-    image_folder = 'icons'
+    image_folder = 'icon'
     json_data = {
-        "name": "SuPeRK图标订阅",
-        "description": "收集一些自己脚本用到的图标",
+        "name": "KK图标订阅",
+        "description": "2024.9.24 收集一些自己脚本用到的图标",
         "icons": []
     }
 
@@ -17,7 +17,7 @@ def generate_json():
             json_data["icons"].append(icon_data)
 
     # Set the output path relative to the repository root
-    output_path = os.path.join(os.getcwd(), 'KK.icons.json')
+    output_path = os.path.join(os.getcwd(), 'kk.icons.json')
 
     with open(output_path, 'w', encoding='utf-8') as json_file:
         json.dump(json_data, json_file, ensure_ascii=False, indent=2)
