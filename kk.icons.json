@@ -1,7 +1,11 @@
 {
   "name": "KK图标订阅",
-  "description": "2024.9.24 收集一些自己脚本用到的图标",
+  "description": "收集一些插件脚本的图标",
   "icons": [
+    {
+      "name": "xiaozhanIELTS.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/xiaozhanIELTS.png"
+    },
     {
       "name": "IeltsBro.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/IeltsBro.png"
