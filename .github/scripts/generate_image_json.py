@@ -5,7 +5,7 @@ def generate_json():
     image_folder = 'icon'
     json_data = {
         "name": "KK图标订阅",
-        "description": "2024.9.24 收集一些自己脚本用到的图标",
+        "description": "收集一些插件脚本的图标",
         "icons": []
     }
 
