@@ -3,10 +3,10 @@ name: Image Workflow
 on:
   push:
     paths:
-      - 'main/icons/**' # 监视 icons 文件夹及其子文件夹下的内容
+      - 'icon/**' # 监视 icons 文件夹及其子文件夹下的内容
   pull_request:
     paths:
-      - 'main/icons/**' # 监视 icons 文件夹及其子文件夹下的内容
+      - 'icon/**' # 监视 icons 文件夹及其子文件夹下的内容
   workflow_dispatch:
 
 jobs:
