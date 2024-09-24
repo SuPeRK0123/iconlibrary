@@ -2,7 +2,7 @@ import os
 import json
 
 def generate_json():
-    image_folder = 'main/icons'
+    image_folder = 'icons'
     json_data = {
         "name": "SuPeRK图标订阅",
         "description": "收集一些自己脚本用到的图标",
