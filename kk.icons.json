@@ -3,16 +3,8 @@
   "description": "收集一些插件脚本的图标",
   "icons": [
     {
-      "name": "haluodanche.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/haluodanche.png"
-    },
-    {
       "name": "aiqiyi.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/aiqiyi.png"
-    },
-    {
-      "name": "tengxun.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/tengxun.png"
     },
     {
       "name": "xiaozhanIelts.png",
@@ -29,10 +21,6 @@
     {
       "name": "kuake.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/kuake.png"
-    },
-    {
-      "name": "weibo.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/weibo.png"
     },
     {
       "name": "mihayou.png",
@@ -59,28 +47,12 @@
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/acfun.png"
     },
     {
-      "name": "jianhangshenghuo.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/jianhangshenghuo.png"
-    },
-    {
       "name": "haidilao.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/haidilao.png"
     },
     {
       "name": "dameile.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/dameile.png"
-    },
-    {
-      "name": "huazhuhui.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/huazhuhui.png"
-    },
-    {
-      "name": "qidiandushu.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/qidiandushu.png"
-    },
-    {
-      "name": "yaduojiudian.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/yaduojiudian.png"
     },
     {
       "name": "smzdm.png",
@@ -107,20 +79,12 @@
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/gaodeditu.png"
     },
     {
-      "name": "wanbiaozhijia.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/wanbiaozhijia.png"
-    },
-    {
       "name": "xiecheng.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/xiecheng.png"
     },
     {
       "name": "manmanmai.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/manmanmai.png"
-    },
-    {
-      "name": "1.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/1.png"
     }
   ]
 }
