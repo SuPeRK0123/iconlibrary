@@ -3,12 +3,16 @@
   "description": "收集一些插件脚本的图标",
   "icons": [
     {
+      "name": "xiaozhanIelts.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/xiaozhanIelts.png"
+    },
+    {
       "name": "IeltsBro.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/IeltsBro.png"
     },
     {
-      "name": "xiaozhanIelts.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/xiaozhanIelts.png"
+      "name": "gaodeditu.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/gaodeditu.png"
     }
   ]
 }
