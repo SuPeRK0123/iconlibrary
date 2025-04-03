@@ -3,108 +3,112 @@
   "description": "收集一些插件脚本的图标",
   "icons": [
     {
-      "name": "tianyiyunpan.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/tianyiyunpan.png"
-    },
-    {
-      "name": "IeltsBro.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/IeltsBro.png"
-    },
-    {
-      "name": "tuhuyangche.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/tuhuyangche.png"
-    },
-    {
-      "name": "dameile.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/dameile.png"
-    },
-    {
-      "name": "acfun.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/acfun.png"
-    },
-    {
-      "name": "dls.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/dls.png"
-    },
-    {
-      "name": "haidilao.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/haidilao.png"
-    },
-    {
-      "name": "gaodeditu.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/gaodeditu.png"
-    },
-    {
-      "name": "jietingche.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/jietingche.png"
-    },
-    {
-      "name": "tieba.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/tieba.png"
-    },
-    {
-      "name": "meituan.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/meituan.png"
-    },
-    {
-      "name": "aiqiyi.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/aiqiyi.png"
-    },
-    {
-      "name": "xiaozhanIelts.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/xiaozhanIelts.png"
-    },
-    {
-      "name": "manmanmai.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/manmanmai.png"
+      "name": "yaduojiudian.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/yaduojiudian.png"
     },
     {
       "name": "xiaodoumiao.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/xiaodoumiao.png"
     },
     {
-      "name": "duet.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/duet.png"
-    },
-    {
-      "name": "smzdm.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/smzdm.png"
-    },
-    {
-      "name": "aliyunpan.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/aliyunpan.png"
-    },
-    {
-      "name": "yaduojiudian.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/yaduojiudian.png"
-    },
-    {
-      "name": "ximalaya.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/ximalaya.png"
+      "name": "kuake.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/kuake.png"
     },
     {
       "name": "senkongdao.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/senkongdao.png"
     },
     {
-      "name": "haixin.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/haixin.png"
+      "name": "ximalaya.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/ximalaya.png"
     },
     {
-      "name": "kuake.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/kuake.png"
+      "name": "Parsec.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/Parsec.png"
+    },
+    {
+      "name": "smzdm.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/smzdm.png"
+    },
+    {
+      "name": "tianyiyunpan.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/tianyiyunpan.png"
+    },
+    {
+      "name": "aliyunpan.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/aliyunpan.png"
+    },
+    {
+      "name": "mihayou.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/mihayou.png"
+    },
+    {
+      "name": "haidilao.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/haidilao.png"
+    },
+    {
+      "name": "dls.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/dls.png"
+    },
+    {
+      "name": "duet.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/duet.png"
+    },
+    {
+      "name": "aiqiyi.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/aiqiyi.png"
     },
     {
       "name": "qidian.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/qidian.png"
     },
     {
+      "name": "gaodeditu.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/gaodeditu.png"
+    },
+    {
       "name": "xiecheng.png",
       "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/xiecheng.png"
     },
     {
-      "name": "mihayou.png",
-      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/mihayou.png"
+      "name": "acfun.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/acfun.png"
+    },
+    {
+      "name": "IeltsBro.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/IeltsBro.png"
+    },
+    {
+      "name": "jietingche.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/jietingche.png"
+    },
+    {
+      "name": "xiaozhanIelts.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/xiaozhanIelts.png"
+    },
+    {
+      "name": "tieba.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/tieba.png"
+    },
+    {
+      "name": "dameile.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/dameile.png"
+    },
+    {
+      "name": "tuhuyangche.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/tuhuyangche.png"
+    },
+    {
+      "name": "manmanmai.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/manmanmai.png"
+    },
+    {
+      "name": "haixin.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/haixin.png"
+    },
+    {
+      "name": "meituan.png",
+      "url": "https://raw.githubusercontent.com/SuPeRK0123/iconlibrary/main/icon/meituan.png"
     }
   ]
 }
